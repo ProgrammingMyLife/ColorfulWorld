@@ -8,7 +8,7 @@ Colorful World is a minecraft datapack that will make your minecraft world more 
 
 ## How do I install it?
 
-To install this datapack, <a href="LINK to download">click here to download it</a>, then import it into your minecraft world when creating it
+To install this datapack, <a href="https://github.com/ProgrammingMyLife/ColorfulWorld/releases/download/v1.0.0/Colorfu_World.zip">click here to download it</a>, then import it into your minecraft world when creating it
 
 ## How do I use it?
 
